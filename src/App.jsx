@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+
 
 function App() {
   return (
     <div className="App">
-     <h1>Movie App</h1>
+      <h1>Movie App with Redux Toolkit Saga</h1>
     </div>
   );
 }
